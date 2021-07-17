@@ -24,9 +24,9 @@ Install magicTmux on Linux/macOS with a single command:
 
 **Panes**
 
-`<prefix> 1` spilit screen right
+`<prefix> -` spilit screen right
 
-`<prefix> 2` spilit screen down
+`<prefix> =` spilit screen down
 
 `<prefix> 0` close pane
 
