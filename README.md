@@ -1,3 +1,5 @@
+Forked and maintain my config
+
 # magicTmux <img src="https://img.shields.io/badge/platform-Linux%2FmacOS-brightgreen.svg"> <img src="https://img.shields.io/badge/release-1.2.0-blue.svg">
 
 A tmux config that is easy to install and customize.
@@ -12,7 +14,7 @@ If tmux had already been installed:
 
 Install magicTmux on Linux/macOS with a single command:
 
-`curl -s "https://raw.githubusercontent.com/p-z-l/magicTmux/master/install.sh" | /bin/sh`
+`curl -s "https://raw.githubusercontent.com/xudesheng/magicTmux/master/install.sh" | /bin/sh`
 
 ## Shortcuts
 
