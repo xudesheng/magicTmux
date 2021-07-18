@@ -52,7 +52,7 @@ fi
 # download files...
 dialog "\nfetching tmux.conf..."
 touch ~/.tmux.conf
-curl -s https://raw.githubusercontent.com/p-z-l/magicTmux/master/tmux.conf -o ~/.tmux.conf
+curl -s https://raw.githubusercontent.com/xudesheng/magicTmux/master/tmux.conf -o ~/.tmux.conf
 clone "Tmux Plugin Manager (TPM)" https://github.com/tmux-plugins/tpm.git ~/.tmux/plugins/tpm
 clone "tmux-battery" https://github.com/tmux-plugins/tmux-battery.git ~/.tmux/plugins/tmux-battery
 clone "tmux-cpu" https://github.com/tmux-plugins/tmux-cpu.git ~/.tmux/plugins/tmux-cpu
